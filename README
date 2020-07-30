@@ -1,0 +1,5 @@
+Analysis of gun murder data
+
+download-data downloads the csv file
+wrangle-data creates a new data set and saves it as an R data object in rda directory
+analysis generates a plot and saves a pic to the figs directory
